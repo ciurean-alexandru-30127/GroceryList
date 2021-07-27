@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Onion",
+            "stock": 119,
+            "measure": "grams"
+        },
+        {
+            "id": 2,
+            "name": "Red Peppers",
+            "stock": 100,
+            "measure": "grams"
+        },
+        {
+            "id": 5,
+            "name": "Coriandru",
+            "stock": 22,
+            "measure": "pinches"
+        },
+        {
+            "id": 3,
+            "name": "Red Onions",
+            "stock": 200,
+            "measure": "grams"
+        }
+    ]
+}
